@@ -3,7 +3,7 @@
 PongML is a machine learning library which I started developing whilst I was completing my undergraduate final year project/dissertation.
 I am developing this library for personal learning purposes.
 
-__Currently this library only supports articial neural networks.__
+**__Currently this library only supports articial neural networks.__**
 
 ## Artificial Neural Networks
 
